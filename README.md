@@ -18,3 +18,6 @@ View your app in AI Studio: https://ai.studio/apps/dca7bdac-00a8-4ba5-af20-d1dc8
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+# oddo_hackathon
+oddo hackathon project related repo
